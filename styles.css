@@ -418,9 +418,6 @@ nav ul li a:hover::after {
   display: inline-block;
 }
 
-
-
-/* Popup styles (unchanged from your original) */
 .project-popup {
   position: fixed;
   top: 0;
